@@ -1,6 +1,8 @@
 Curso Java Básico Gratuito
 =================
 
+### OBS: Cópia do README do Curso de Java da Loiane.
+
 Código fonte apresentado no curso de Java gratuito do blog loiane.com
 
 ### Link do curso com certificado:
