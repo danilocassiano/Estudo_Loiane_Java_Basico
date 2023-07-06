@@ -11,6 +11,10 @@ public class VariaveisChar {
         char a = 111;
         char b = 105;
 
-        System.err.println("" + a + b);
+        System.out.println("" + a + b);
+
+        char interrogacao = 0x00E1;
+
+        System.out.println(interrogacao);
     }
 }
