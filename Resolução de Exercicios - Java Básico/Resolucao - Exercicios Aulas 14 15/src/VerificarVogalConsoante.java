@@ -1,4 +1,6 @@
+//EXERCICIO 4;
 import java.util.Scanner;
+
 
 public class VerificarVogalConsoante {
     public static void main(String[] args) {
