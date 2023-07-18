@@ -11,26 +11,30 @@ public class Checkup {
 
         System.out.println("Qual a sua altura?");
         altura = check.nextDouble();
-        System.out.println("Qual o seu sexo? Digite M para masculino ou F para feminino: ");
-        sexo = check.next();
-
+        while (true) {
+            System.out.println("Qual o seu sexo? Digite M para masculino ou F para feminino: ");
+            sexo = check.next();
+            if (sexo.equalsIgnoreCase("M") || sexo.equalsIgnoreCase("F")) {
+                break; // Sai do loop se o sexo for válido.
+            } else {
+                System.out.println("Sexo inválido. Digite M ou F.");
+            }
+        }
 
         pesoIdealM =  (72.7 * altura) - 58;
         pesoIdealF =  (62.1 * altura) - 44.7;
 
 
-        if(sexo.equals("M") || sexo.equals("m")){
+        if(sexo.equalsIgnoreCase("M")){
             System.out.println("Seu peso ideal é: " + pesoIdealM);
-        }else if (sexo.equals("F") || sexo.equals("f")){
+        }else if (sexo.equalsIgnoreCase("F")){
             System.out.println("Seu peso ideal é: " + pesoIdealF);
-        }else{
-            System.out.println("Por favor, Coloque o seu sexo correto.");
         }
 
         System.out.println("Qual seu peso?");
         pesoIdeal = check.nextDouble();
 
-        if (sexo.equals("M") || sexo.equals("m")) {
+        if (sexo.equalsIgnoreCase("M")) {
             if (pesoIdeal < pesoIdealM) {
                 System.out.println("Você está abaixo do peso!");
             } else if (pesoIdeal > pesoIdealM) {
@@ -38,7 +42,7 @@ public class Checkup {
             } else {
                 System.out.println("Você está na média do peso!");
             }
-        } else if (sexo.equals("F") || sexo.equals("f")) {
+        } else if (sexo.equalsIgnoreCase("F")) {
             if (pesoIdeal < pesoIdealF) {
                 System.out.println("Você está abaixo do peso!");
             } else if (pesoIdeal > pesoIdealF) {
