@@ -27,6 +27,9 @@ public class Salario {
         double salarioLiquido = salarioTotal - salarioInss - sindicato - importoRenda;
         System.out.println("Seu salário Liquido é de  " + salarioLiquido + " Reais.");
 
+        double totalDesconto = (salarioInss + sindicato + importoRenda);
+        System.out.println("Total de Desconto: " + totalDesconto);
+
         System.out.println("Salario Bruno: RS" + salarioTotal + " - IR (11%): R$" + importoRenda + " - INSS (8%): R$" + salarioInss + " - Sindicato (5%): R$" + sindicato + " = Salário Liquido: R$" + salarioLiquido);
 
     }
