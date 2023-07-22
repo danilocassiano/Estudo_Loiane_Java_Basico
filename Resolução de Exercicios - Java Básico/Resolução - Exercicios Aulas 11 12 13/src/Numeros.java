@@ -14,7 +14,7 @@ public class Numeros {
 
         int produto = ( primeiroNumero * 2 ) * ( segundoNumero / 2 );
         double soma = ( primeiroNumero * 3 ) + terceiroNumero;
-        double cubo = (double) Math.pow(terceiroNumero,3);
+        double cubo = Math.pow(terceiroNumero,3);
 
         System.out.println("A solução da questão 'a' é: " + produto);
         System.out.println("A solução da questão 'b' é: " + soma);
