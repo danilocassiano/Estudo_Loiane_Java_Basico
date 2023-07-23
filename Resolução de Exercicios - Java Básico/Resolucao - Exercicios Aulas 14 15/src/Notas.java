@@ -14,15 +14,15 @@ public class Notas {
         double media = (nota1 + nota2) / 2;
 
         if(media < 4 && media >= 0){
-            System.out.print("Sua nota foi de: " + media + " e seu Conceito é: E.");
+            System.out.print("Sua nota foi de: " + media + " e seu Conceito é: E. Você está REPROVADO!");
         }else if(media < 6 && media > 4){
-            System.out.print("Sua nota foi de: " + media + " e seu Conceito é: D.");
+            System.out.print("Sua nota foi de: " + media + " e seu Conceito é: D. Você está REPROVADO!");
         }else if(media < 7.5 && media > 6){
-            System.out.print("Sua nota foi de: " + media + " e seu Conceito é: C.");
+            System.out.print("Sua nota foi de: " + media + " e seu Conceito é: C. Você está APROVADO!");
         } else if(media < 9 && media > 7.5) {
-            System.out.print("Sua nota foi de: " + media + " e seu Conceito é: B.");
+            System.out.print("Sua nota foi de: " + media + " e seu Conceito é: B. Você está APROVADO!");
         }else{
-            System.out.print("Sua nota foi de: " + media + " e seu Conceito é: A.");
+            System.out.print("Sua nota foi de: " + media + " e seu Conceito é: A. Você está APROVADO!");
         }
 
 
