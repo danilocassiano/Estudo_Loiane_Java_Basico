@@ -1,4 +1,4 @@
-//EXERCICIO 8
+package ResoluçãoExercicios_Aulas_11_12_13.src.Exercicio_8;
 
 import java.util.Scanner;
 public class HorasTrabalhadas {

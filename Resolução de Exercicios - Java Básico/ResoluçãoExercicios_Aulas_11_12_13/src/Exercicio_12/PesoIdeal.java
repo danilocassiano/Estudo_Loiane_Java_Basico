@@ -1,4 +1,4 @@
-// EXERCICIO 12
+package ResoluçãoExercicios_Aulas_11_12_13.src.Exercicio_12;
 import java.util.Scanner;
 public class PesoIdeal {
     public static void main(String[] args) {

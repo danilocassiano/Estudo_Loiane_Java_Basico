@@ -1,4 +1,4 @@
-//EXERCICIO 2
+package ResoluçãoExercicios_Aulas_11_12_13.src.Exercicio_2;
 
 import java.util.Scanner;
 public class QualNumero {

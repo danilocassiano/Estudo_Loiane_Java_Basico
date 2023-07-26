@@ -1,7 +1,6 @@
-//EXERCICIO 7
+package ResoluçãoExercicios_Aulas_11_12_13.src.Exercicio_7;
 
 import java.util.Scanner;
-import java.lang.Math;
 public class AreaQuadrado {
     public static void main(String[] args){
         Scanner area = new Scanner(System.in);

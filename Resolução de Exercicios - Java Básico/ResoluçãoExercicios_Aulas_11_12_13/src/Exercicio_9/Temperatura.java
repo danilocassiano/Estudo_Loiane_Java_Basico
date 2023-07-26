@@ -1,4 +1,4 @@
-//EXERCICIO 9
+package ResoluçãoExercicios_Aulas_11_12_13.src.Exercicio_9;
 import java.util.Scanner;
 
 public class Temperatura {

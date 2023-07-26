@@ -1,4 +1,4 @@
-// EXERCICIO 3
+package ResoluçãoExercicios_Aulas_11_12_13.src.Exercicio_3;
 import java.util.Scanner;
 public class Soma{
     public static void main(String[] args){

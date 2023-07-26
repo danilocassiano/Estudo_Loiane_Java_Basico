@@ -1,4 +1,4 @@
-//EXERCICIO 5
+package ResoluçãoExercicios_Aulas_11_12_13.src.Exercicio_5;
 
 import java.util.Scanner;
 public class Conversor {
@@ -13,5 +13,4 @@ public class Conversor {
     System.out.println(metros + " metros são " + resultado + " centimentros");
 
     }
-
 }

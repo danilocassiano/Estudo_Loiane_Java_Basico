@@ -1,7 +1,6 @@
-//EXERCICIO 16
+package ResoluçãoExercicios_Aulas_11_12_13.src.Exercicio_16;
 
 import java.util.Scanner;
-import java.lang.Math;
 public class Tintas {
     public static void main(String[] args) {
         // Informações sobre a tinta

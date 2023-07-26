@@ -1,4 +1,4 @@
-//EXERCICIO 6
+package ResoluçãoExercicios_Aulas_11_12_13.src.Exercicio_6;
 
 import java.util.Scanner;
 public class Raio {

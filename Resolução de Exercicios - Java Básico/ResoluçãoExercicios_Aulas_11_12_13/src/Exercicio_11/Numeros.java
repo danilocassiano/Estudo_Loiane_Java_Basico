@@ -1,6 +1,5 @@
-//EXERCICIO 11
+package ResoluçãoExercicios_Aulas_11_12_13.src.Exercicio_11;
 import java.util.Scanner;
-import java.lang.Math;
 public class Numeros {
     public static void main(String[] args) {
         Scanner number = new Scanner(System.in);

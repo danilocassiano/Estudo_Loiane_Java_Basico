@@ -1,4 +1,4 @@
-//EXERCICIO 4
+package ResoluçãoExercicios_Aulas_11_12_13.src.Exercicio_4;
 import java.util.Scanner;
 public class Media {
     public static void main(String[] args){

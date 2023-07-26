@@ -1,4 +1,4 @@
-//EXERCICIO 10
+package ResoluçãoExercicios_Aulas_11_12_13.src.Exercicio_10;
 import java.util.Scanner;
 public class TemperaturaCelsius {
     public static void main(String[]args){
