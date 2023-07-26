@@ -17,7 +17,7 @@ public class Checkup {
             if (sexo.equalsIgnoreCase("M") || sexo.equalsIgnoreCase("F")) {
                 break; // Sai do loop se o sexo for válido.
             } else {
-                System.out.println("Sexo inválido. Digite M ou F.");
+                System.out.println("ResolucaoExercicios_Aulas_14_15.src.Exercicio_3.Sexo inválido. Digite M ou F.");
             }
         }
 
