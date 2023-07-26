@@ -1,51 +1,45 @@
 //EXERCICIO 17
 
 import java.util.Scanner;
-import java.lang.Math;
 
 public class LojaDeTintas {
-
     public static void main(String[] args) {
-        // Informações sobre a tinta
-        double coberturaLitros = 1;  // 1 litro para cada 6 metros quadrados
-        int capacidadeLata = 18;    // litros
-        double precoLata = 80.00;   // em reais
-        double capacidadeGalao = 3.6; // litros
-        double precoGalao = 25.00;  // em reais
-
-        // Entrada do Usuário
         Scanner scan = new Scanner(System.in);
-        System.out.println("Digite o tamanho da área a ser pintada em metros quadrados: ");
+
+        double litroPorMetro = 1.0 / 6.0;
+        double capacidadeLata = 18.0;
+        double capacidadeGalao = 3.6;
+        double precoLata = 80.0;
+        double precoGalao = 25.0;
+
+        System.out.print("Informe o tamanho da área a ser pintada (em metros quadrados): ");
         double areaPintada = scan.nextDouble();
 
-        // Cálculo da quantidade de latas e preço total (Opção a)
-        int latasNecessarias = (int) Math.ceil(areaPintada / (6 * coberturaLitros));
-        double precoTotalLatas = latasNecessarias * precoLata;
+        areaPintada = areaPintada * 1.1;
 
-        // Cálculo da quantidade de galões e preço total (Opção b)
-        int galoesNecessarios = (int) Math.ceil(areaPintada / (capacidadeGalao * coberturaLitros));
-        double precoTotalGaloes = galoesNecessarios * precoGalao;
+        double quantidadeTinta = areaPintada * litroPorMetro;
 
-        // Cálculo da quantidade de latas e galões, com o menor preço possível (Opção c)
-        int quantidadeDeGaloes = (int) Math.ceil((areaPintada * 1.1) / (capacidadeLata * coberturaLitros));
-        int quantidadeDeLatas = (int) Math.ceil(((areaPintada * 1.1) - (quantidadeDeGaloes * capacidadeLata * coberturaLitros)) / (capacidadeGalao * coberturaLitros));
-        double precoTotal = (quantidadeDeGaloes * precoGalao) + (quantidadeDeLatas * precoLata);
+        int latasNecessarias = (int) Math.ceil(quantidadeTinta / capacidadeLata);
+        int galoesNecessarios = (int) Math.ceil(quantidadeTinta / capacidadeGalao);
 
-        // Exibição dos resultados
-        System.out.println("\nOpção a) Comprar apenas latas de 18 litros:");
-        System.out.println("Quantidade de Latas Necessárias: " + latasNecessarias);
-        System.out.printf("Preço Total das Latas: R$ %.2f\n", precoTotalLatas);
+        int latasMelhorComb = (int) (quantidadeTinta / capacidadeLata);
+        int galoesMelhorComb = (int) Math.ceil((quantidadeTinta - latasMelhorComb * capacidadeLata) / capacidadeGalao);
+        double precoMelhorComb = (latasMelhorComb * precoLata) + (galoesMelhorComb * precoGalao);
 
-        System.out.println("\nOpção b) Comprar apenas galões de 3,6 litros:");
-        System.out.println("Quantidade de Galões Necessários: " + galoesNecessarios);
-        System.out.printf("Preço Total dos Galões: R$ %.2f\n", precoTotalGaloes);
+        double precoTotalcomLatas = Math.ceil(quantidadeTinta / capacidadeLata) * precoLata;
 
-        System.out.println("\nOpção c) Misturar latas e galões para obter o menor preço:");
-        System.out.println("Quantidade de Galões Necessários: " + quantidadeDeGaloes);
-        System.out.println("Quantidade de Latas Necessárias: " + quantidadeDeLatas);
-        System.out.printf("Preço Total: R$ %.2f\n", precoTotal);
+        System.out.println("\nQuantidade de tinta a ser comprada:");
+        System.out.println("Comprando apenas latas de 18 litros: " + latasNecessarias + " latas.");
+        System.out.println("Comprando apenas galões de 3,6 litros: " + galoesNecessarios + " galões.");
+
+        if (precoMelhorComb < precoTotalcomLatas) {
+            System.out.println("Misturando latas e galões (opção mais barata):");
+            System.out.println("   Latas: " + latasMelhorComb + " latas.");
+            System.out.println("   Galões: " + galoesMelhorComb + " galões.");
+            System.out.println("   Preço total: R$ " + precoMelhorComb);
+        } else {
+            System.out.println("Opção mais barata, apenas latas: R$ " + precoTotalcomLatas);
+        }
+
     }
 }
-
-
-
