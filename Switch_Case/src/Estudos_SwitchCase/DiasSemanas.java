@@ -1,4 +1,4 @@
-//Aula de SwitchCase
+package Estudos_SwitchCase;
 import java.util.Scanner;
 
 public class DiasSemanas {
