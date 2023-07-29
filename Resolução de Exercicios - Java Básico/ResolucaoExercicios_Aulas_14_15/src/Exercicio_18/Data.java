@@ -3,7 +3,8 @@ package ResolucaoExercicios_Aulas_14_15.src.Exercicio_18;
 import java.util.Scanner;
 
 public class Data {
-    public static void main(String[] args) {
+
+   public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
         while(true) {
@@ -12,6 +13,7 @@ public class Data {
 
             if (verificarData(dataInput)) {
                 System.out.println("Data válida.");
+                break;
             } else {
                 System.out.println("Data inválida. Tente novamente no formato correto.");
             }
@@ -24,11 +26,11 @@ public class Data {
         }
 
         int dia, mes, ano;
-        try {
-            dia = Integer.parseInt(data.substring(0, 2));
-            mes = Integer.parseInt(data.substring(3, 5));
+        try {// Ele vai testar cada linha dentro do bloco.
+            dia = Integer.parseInt(data.substring(0, 2));//Os valores dentro do metodo indica a posição incial e final que passará na converção.
+            mes = Integer.parseInt(data.substring(3, 5));// O metodo Integer.parseInt transforma a Strinf em inteiro.
             ano = Integer.parseInt(data.substring(6, 10));
-        } catch (NumberFormatException e) {
+        } catch (NumberFormatException e) {// caso alguma linha der como false, ele vai entrar nesse metodo automaticamente indicando o erro.
             return false;
         }
 
