@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Declarando Variaveis" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Passando Argumentos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Primeiro Programa em Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Resolução de Exercicios - Java Básico" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
