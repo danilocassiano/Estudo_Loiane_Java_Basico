@@ -59,6 +59,11 @@ public class Validacao {
             sexo = scan.next();
 
             if(sexo.equalsIgnoreCase("f") || sexo.equalsIgnoreCase("m")){
+                if(sexo.equalsIgnoreCase("f")){
+                    sexo = "Feminino";
+                }else{
+                    sexo = "Masculino";
+                }
                 System.out.println("Sexo Válido");
                 break;
             }else{
@@ -72,6 +77,16 @@ public class Validacao {
             estadoCivil = scan.next();
 
             if(estadoCivil.equalsIgnoreCase("s") || estadoCivil.equalsIgnoreCase("c") || estadoCivil.equalsIgnoreCase("v") || estadoCivil.equalsIgnoreCase("d")){
+                if(estadoCivil.equalsIgnoreCase("s")){
+                    estadoCivil = "Solteiro";
+                }else if(estadoCivil.equalsIgnoreCase("c")){
+                    estadoCivil = "Casado";
+                }else if(estadoCivil.equalsIgnoreCase("v")){
+                    estadoCivil = "Viuvo";
+                }else if(estadoCivil.equalsIgnoreCase("d")){
+                    estadoCivil = "Divorciado";
+                }
+
                 System.out.println("Estado Civil Válido");
                 break;
             }else {
@@ -79,6 +94,7 @@ public class Validacao {
             }
         }
 
+        System.out.println("__________________________________________________________-");
         System.out.println("Seu nome é: " + nome);
         System.out.println("Sua idade é: " + idade);
         System.out.println("Seu salário é: " + salario);
