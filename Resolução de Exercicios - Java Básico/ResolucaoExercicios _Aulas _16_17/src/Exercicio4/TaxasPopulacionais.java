@@ -16,9 +16,9 @@ public class TaxasPopulacionais {
 
         int anos = 0;
 
-        while (habitantesPaisA < habitantesPaisB) {
-            habitantesPaisA += (int) (habitantesPaisA * taxaPaisA);
-            habitantesPaisB += (int) (habitantesPaisB * taxaPaisB);
+        while (habitantesPaisA <= habitantesPaisB) {
+            habitantesPaisA += (habitantesPaisA * taxaPaisA);
+            habitantesPaisB += (habitantesPaisB * taxaPaisB);
             anos++;
         }
 

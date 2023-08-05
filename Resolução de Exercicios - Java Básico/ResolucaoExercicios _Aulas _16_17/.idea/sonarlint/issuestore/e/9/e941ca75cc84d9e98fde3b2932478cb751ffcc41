@@ -1,0 +1,30 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²β 8Άίο›1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(Ηµν‘8©ίο›1
+j
+java:S1659"HDeclare "estadoCivil" and all following declarations on a separate line.(όρίϊÿÿÿÿ8Ήίο›1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(³ΥÒ8Ιίο›1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ΨήΥόÿÿÿÿ8Ιίο›1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(υΌ"8Ιίο›1
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(Φέ—ψÿÿÿÿ8Ιίο›1
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(ΓΈ€Ξ8Ιίο›1
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(Ρ­αύÿÿÿÿ8Ιίο›1
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(ΛΞ‘σÿÿÿÿÿ8Ιίο›1
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(ρψΨ‰ÿÿÿÿÿ8Ιίο›1
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(Σγέ8Ιίο›1
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(ϊ¶‰΄όÿÿÿÿ8Ιίο›1
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(νΓ¤Η8Ψίο›1
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(λ—¤ύÿÿÿÿ8Ψίο›1
+U	java:S106K"9Replace this use of System.out or System.err by a logger.(³ύ―8Ψίο›1
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(ΓÒνύÿÿÿÿ8Ψίο›1
+Z	java:S106Z"9Replace this use of System.out or System.err by a logger.( Ρ“½ϋÿÿÿÿ8Ψίο›1
+U	java:S106]"9Replace this use of System.out or System.err by a logger.(τƒΗ8Ψίο›1
+U	java:S106a"9Replace this use of System.out or System.err by a logger.(τΈΆ8Ψίο›1
+U	java:S106b"9Replace this use of System.out or System.err by a logger.(ώΏΣ8Ψίο›1
+U	java:S106c"9Replace this use of System.out or System.err by a logger.(’ί€Μ8Ψίο›1
+Z	java:S106d"9Replace this use of System.out or System.err by a logger.(Μϋεόÿÿÿÿ8Ψίο›1
+U	java:S106e"9Replace this use of System.out or System.err by a logger.(§ςλ£8Ψίο›1
+Z	java:S106f"9Replace this use of System.out or System.err by a logger.(…»Κώÿÿÿÿ8Ϊªγο›1
+γ
+java:S6541"ΕA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 85 to 64, Complexity from 23 to 14, Nesting Level from 3 to 2, Number of Variables from 10 to 6.(Ηµν‘8θίο›1
