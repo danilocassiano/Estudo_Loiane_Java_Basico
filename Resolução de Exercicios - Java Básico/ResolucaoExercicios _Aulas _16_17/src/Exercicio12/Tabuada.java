@@ -16,8 +16,5 @@ public class Tabuada {
             multi= tabuada * i;
             System.out.println(tabuada + " x " + i + " = " + multi);
         }
-
-
-
     }
 }
