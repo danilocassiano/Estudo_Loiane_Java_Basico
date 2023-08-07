@@ -20,7 +20,7 @@ public class Fatorial {
         }
         scan.close();
         int resultadoFinalPositivo = Math.abs(total);
-        System.out.println(resultadoFinalPositivo);
+        System.out.println("O valor do Fatorial de " + numero + " é: " + resultadoFinalPositivo);
 
     }
 }
