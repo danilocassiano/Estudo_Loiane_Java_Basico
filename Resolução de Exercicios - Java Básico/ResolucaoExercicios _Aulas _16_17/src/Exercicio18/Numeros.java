@@ -1,11 +1,11 @@
 package Exercicio18;
-import java.util.Scanner;
+
 import java.util.Random;
 
 public class Numeros {
 
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
+
         StringBuilder result = new StringBuilder();
 
         int qtdNumeros = 5;
