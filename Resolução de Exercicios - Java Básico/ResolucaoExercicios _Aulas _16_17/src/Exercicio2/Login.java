@@ -13,7 +13,7 @@ public class Login {
             String senha = scan.nextLine();
 
             if(login.equals(senha) ){
-                System.out.println("Sua Senha não pode ser identica ao Login. Tente Novamente.");
+                System.err.println("Sua Senha não pode ser identica ao Login. Tente Novamente.");
             }else{
                 System.out.println("Autenticação realizada com Sucesso!");
                 break;
