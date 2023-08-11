@@ -1,0 +1,17 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤çì“şÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Çµí‘
+\
+java:S1659"FDeclare "taxaPaisB" and all following declarations on a separate line.(˜‹şŞ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±®×“ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¨‰öÜşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(•é¡Şıÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(¨‰öÜşÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(ÂÇÒ¤úÿÿÿÿ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(Üé¥Ö
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(Å—€÷
+N	java:S106="9Replace this use of System.out or System.err by a logger.(Üé¥Ö
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(§‹ÇÆ
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(ŸëÅ¬
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(÷¶›ÿÿÿÿÿ
