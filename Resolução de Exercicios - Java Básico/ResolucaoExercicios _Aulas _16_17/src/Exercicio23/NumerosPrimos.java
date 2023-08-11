@@ -1,67 +1,37 @@
 package Exercicio23;
+
 import java.util.Scanner;
 
 public class NumerosPrimos {
-    public static void main(String[]args){
+    public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
-        System.out.println("Informe um número");
-        int numero = scan.nextInt();
+        System.out.println("Informe um número N:");
+        int n = scan.nextInt();
 
-        int i;
-        int qtdDivisivel = 0;
-        int n = 0;
+        int totalDivisoes = 0;
+        int quantidadePrimos = 0;
 
-        for(i = 1; i<= numero; i++ ){
-            if(numero > 1) {
+        for (int i = 2; i <= n; i++) {
+            boolean ehPrimo = true;
 
-                for (i = 1; i <= numero; i++) { // Começa a partir de 2
-
-                        if (i % 2 == 0) {
-                            qtdDivisivel++;
-                            if (qtdDivisivel == 1) {
-                                System.out.println("Primos: " + i);
-                            }
-
-                        } else {
-                            System.out.println("Não Primos: " + i);
-                        }
-
+            for (int j = 2; j <= Math.sqrt(i); j++) {
+                totalDivisoes++;
+                if (i % j == 0) {
+                    ehPrimo = false;
+                    break;
                 }
-                System.out.println(qtdDivisivel);
+            }
+
+            if (ehPrimo) {
+                quantidadePrimos++;
+                System.out.println(i + " é um número primo.");
             }
         }
 
+        System.out.println("Quantidade de números primos encontrados: " + quantidadePrimos);
+        System.out.println("Número total de divisões realizadas: " + totalDivisoes);
 
-      /*  if (numero > 1) {
-
-            for (i = 2; i <= numero; i++) { // Começa a partir de 2
-                if (numero % i == 0) {
-                    qtdDivisivel++;
-                }
-            }
-
-            if (qtdDivisivel == 1) { // Verifica se tem exatamente 1 divisor além de 1 (ele mesmo)
-                System.out.println("Esse número é Primo.");
-            } else {
-                System.out.println("Esse número não é Primo.");
-            }
-
-        } else {
-            System.out.println("Esse número não é Primo.");
-        } */
-
-
-
-
-
-
-
-
-
-
-
-
-
+        scan.close();
     }
 }
