@@ -16,14 +16,8 @@ public class NumerosPrimos {
             for (i = 2; i <= numero; i++) { // Começa a partir de 2
                 if (numero % i == 0) {
                     qtdDivisivel++;
-                } else if (numero % i != 0) {
-                    for (i = 2; i <= numero; i++) {
-                        if (numero % i == 0) {
-                            result.append(i).append("-");
-                        }
-                    }
-                    if (result.length() > 0) {
-                        System.out.println("O número " + numero + " é divisivel por: " + result.substring(0, result.length() - 1));
+                    if (numero % i == 0) {
+                        result.append(i).append("-");
                     }
                 }
             }
@@ -34,8 +28,10 @@ public class NumerosPrimos {
                 System.out.println("Esse número não é Primo.");
             }
 
-        } else {
-            System.out.println("Esse número não é Primo.");
+            if (result.length() > 0) {
+                System.out.println("O número " + numero + " é divisivel por: " + result.substring(0, result.length() - 1));
+            }
+
         }
     }
 }
