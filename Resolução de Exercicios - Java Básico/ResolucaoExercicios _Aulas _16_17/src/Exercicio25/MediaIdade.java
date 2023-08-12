@@ -21,20 +21,19 @@ public class MediaIdade {
             result.append(numeros).append("-");
         }
 
-        if(result.length() > 0){
+        if (result.length() > 0) {
             System.out.println("As Idades geradas automaticamente são: " + result.substring(0, result.length() - 1));
         }
 
         double resultado = (double) soma / qtdIdades;
 
-
-        if(resultado == 0 || resultado <=25 ){
+        if (resultado == 0 || resultado <= 25) {
             System.out.println("A turma é Jovem.");
-        }else if(resultado >= 26 || resultado <= 60){
+        } else if (resultado >= 26 || resultado <= 60) {
             System.out.println("A turma é Adulta.");
-        }else{
+        } else {
             System.out.println("A turma é Idosa.");
         }
 
-      }
+    }
 }
