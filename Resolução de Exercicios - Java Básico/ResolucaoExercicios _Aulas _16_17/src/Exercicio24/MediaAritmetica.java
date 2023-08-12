@@ -9,7 +9,7 @@ public class MediaAritmetica {
         Random random = new Random();
         StringBuilder result = new StringBuilder();
 
-        System.out.println("Informe a quantidade de notas que o programa terá que fazer a Média Aritmetica:");
+        System.out.println("Informe a quantidade de ideda de que o programa terá que gerar:");
         int qtdNotas = scan.nextInt();
 
         int numeros;
