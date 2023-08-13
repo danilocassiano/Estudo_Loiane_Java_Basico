@@ -1,0 +1,17 @@
+
+j
+java:S1192"HDefine a constant instead of duplicating this literal " votos." 3 times.(—©úÅøÿÿÿÿ8ñœ×Û1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ó…ª«ıÿÿÿÿ8˜¿¤Û1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªÉëš8˜¿¤Û1
+Y
+java:S2589"7Remove this expression which always evaluates to "true"(¯ŸÈ•øÿÿÿÿ8¿×Û1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÎŒ†ç8Ç¿¤Û1
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(°™–İ8Ç¿¤Û1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(òîÂ8Ç¿¤Û1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(—©úÅøÿÿÿÿ8Ş×Û1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ïµˆşÿÿÿÿ8Ş×Û1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(âàç¸ıÿÿÿÿ8î×Û1
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Í^8î×Û1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ğ²ª8î×Û1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ºÜªƒ8î×Û1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Á³Æ?8î×Û1
