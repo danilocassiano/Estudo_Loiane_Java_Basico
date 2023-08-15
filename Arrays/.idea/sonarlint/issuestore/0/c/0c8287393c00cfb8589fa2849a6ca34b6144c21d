@@ -1,0 +1,26 @@
+
+[
+java:S1854">Remove this useless assignment to local variable "tempDia005".(€’û¥8ùÊµŸ1
+`
+java:S1854">Remove this useless assignment to local variable "tempDia004".(İ¿˜Ìüÿÿÿÿ8üÊµŸ1
+[
+java:S1854">Remove this useless assignment to local variable "tempDia003".(Ô”Š¾8ıÊµŸ1
+`
+java:S1854">Remove this useless assignment to local variable "tempDia002".(Äó—øÿÿÿÿ8ıÊµŸ1
+`
+java:S1854">Remove this useless assignment to local variable "tempDia001".(´·›òüÿÿÿÿ8şÊµŸ1
+Q
+java:S1481"/Remove this unused "tempDia001" local variable.(´·›òüÿÿÿÿ8„ËµŸ1
+Q
+java:S1481"/Remove this unused "tempDia002" local variable.(Äó—øÿÿÿÿ8‡ËµŸ1
+L
+java:S1481"/Remove this unused "tempDia003" local variable.(Ô”Š¾8ˆËµŸ1
+Q
+java:S1481"/Remove this unused "tempDia004" local variable.(İ¿˜Ìüÿÿÿÿ8‹ËµŸ1
+L
+java:S1481"/Remove this unused "tempDia005" local variable.(€’û¥8ŒËµŸ1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(úı¤v8“ËµŸ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ù…ü8—ËµŸ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ¹áşÿÿÿÿ8ËµŸ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(èó’üÿÿÿÿ8®ËµŸ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ì­øúÿÿÿÿ8İõƒµŸ1
