@@ -1,0 +1,12 @@
+
+a
+java:S18540"?Remove this useless assignment to local variable "notaAlunos1".(¥Ã¿¾ÿÿÿÿÿ8¿æ¶Ÿ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(§²š8Óæ¶Ÿ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Øæ¶Ÿ1
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(‹©áæıÿÿÿÿ8Ûæ¶Ÿ1
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(ËÉ›úùÿÿÿÿ8ßæ¶Ÿ1
+R
+java:S14810"0Remove this unused "notaAlunos1" local variable.(¥Ã¿¾ÿÿÿÿÿ8áæ¶Ÿ1
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(ìÿîÿÿÿÿÿ8äæ¶Ÿ1
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(ìñ¬›øÿÿÿÿ8ëæ¶Ÿ1
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8íæ¶Ÿ1
