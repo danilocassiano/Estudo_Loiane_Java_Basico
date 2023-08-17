@@ -19,8 +19,6 @@ w
 G.idea/sonarlint/issuestore/4/0/400750e0855791d406927c0f2f9a120361c649c3,a\4\a477d03028e9f74049da80288fdf7b083403c44b
 R
 "src/Exercicio23/NumerosPrimos.java,e\4\e433266b8e3e6768071e82819ac849b3de6ca03e
-R
-"src/Exercicio22/NumerosPrimos.java,7\5\75b3b126323db4ebf2acb25423abebebd8ab0321
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 ]
