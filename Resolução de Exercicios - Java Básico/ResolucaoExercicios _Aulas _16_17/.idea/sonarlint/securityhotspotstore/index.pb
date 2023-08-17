@@ -15,8 +15,6 @@ w
 G.idea/sonarlint/issuestore/9/3/93bde0a72609f0079de7ef3a65a4ecf686d26b0a,1\1\119f0177bd3973cce6d0e52b2291f63421653da5
 Å
 Q.idea/sonarlint/securityhotspotstore/1/4/14c8894435f98b6668243399cd58f47e0f2a2681,3\c\3ca643761e64be83dc72cf5e7dbdb0ade7b8a21e
-V
-&Resolucao - Exercicios Aulas 16 17.iml,c\8\c8e8e80c3b3cb54e91ad383bfe056c3b7dba8358
 w
 G.idea/sonarlint/issuestore/4/0/400750e0855791d406927c0f2f9a120361c649c3,a\4\a477d03028e9f74049da80288fdf7b083403c44b
 R
@@ -209,8 +207,6 @@ G.idea/sonarlint/issuestore/f/c/fc51aad2f1ebe72ffedf49fa3dfea24b513ff6fe,1\2\12
 Q.idea/sonarlint/securityhotspotstore/c/e/ce7799643a95553c6bee1d403d6cb738907a7f2c,2\7\279a79a9d9151a9959cd88cbae53cc58d712a5b2
 Å
 Q.idea/sonarlint/securityhotspotstore/9/3/93bde0a72609f0079de7ef3a65a4ecf686d26b0a,7\c\7cfbe14cdc45fb4dbe2ecdf9663937270c99818a
-Q
-!src/Exercicio28/Investimento.java,c\c\cc513f4a26864f6b3b095b4688f7eb6a4201ea50
 w
 G.idea/sonarlint/issuestore/0/1/016aa35e323516fc1f21da659c615ce8ce89b43e,1\5\152c8b43b83316c9e4608b6044f620ecb5b72e3e
 w
@@ -577,8 +573,6 @@ w
 G.idea/sonarlint/issuestore/4/f/4f3c7a8158d9984f6972f1d4594b711f3cf5e923,2\c\2ce37fee6605bf4ce543ec9acc9ebfa8199d9143
 w
 G.idea/sonarlint/issuestore/4/7/47deea973d12bd9a7ff5999d20135c170ce61489,6\7\67e636cd4c3deaf2c86a2d8bd838718ae1ad6275
-M
-src/Exercicio32/Fatorial.java,e\0\e09d7e9dbb7049a2e46a18064960a42bdee6afbc
 w
 G.idea/sonarlint/issuestore/6/0/6078646478c0e5a325df08373ab592513ac0c23a,3\1\31da4cfe1ce3117bf06d51a7aae58c7cc1821c3b
 w

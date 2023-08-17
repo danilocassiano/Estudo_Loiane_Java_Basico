@@ -31,4 +31,4 @@ public class LojasTabajaras {
             if (!scanner.next().equalsIgnoreCase("s")) break;
         }
     }
-}
+}   
