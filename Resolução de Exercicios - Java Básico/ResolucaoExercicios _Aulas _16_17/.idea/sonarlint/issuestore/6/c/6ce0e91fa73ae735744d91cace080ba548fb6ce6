@@ -1,0 +1,21 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ê÷Çí8ù¹ë± 1
+_
+java:S3518:"CMake sure "totalClientes" can't be zero before doing this division.(¯½98éşì± 1
+^
+java:S1659"ADeclare "peso" and all following declarations on a separate line.(çŞ“³8ğËë± 1
+n
+java:S1659"LDeclare "codigoMaisBaixo" and all following declarations on a separate line.(Š×ÛÓûÿÿÿÿ8òËë± 1
+O
+java:S1659"-Declare "alturaMaisBaixo" on a separate line.(Û·…³ÿÿÿÿÿ8óËë± 1
+H
+java:S1659"+Declare "pesoMaisMagro" on a separate line.(ŞƒÏ°8ôËë± 1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÙøÈ÷ıÿÿÿÿ8˜Ìë± 1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¼­¼ƒ8œÌë± 1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(à·ğÍùÿÿÿÿ8ŸÌë± 1
+U	java:S106="9Replace this use of System.out or System.err by a logger.(®˜ÍŸ8¦Ìë± 1
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(ÎÌÇÆøÿÿÿÿ8¬Ìë± 1
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(‘ŸÌÇıÿÿÿÿ8¯Ìë± 1
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(Ã¤Îÿÿÿÿÿ8±Ìë± 1
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(€»8¶Ìë± 1
+U	java:S106D"9Replace this use of System.out or System.err by a logger.(Ş«‘ÿ8¸Ìë± 1
