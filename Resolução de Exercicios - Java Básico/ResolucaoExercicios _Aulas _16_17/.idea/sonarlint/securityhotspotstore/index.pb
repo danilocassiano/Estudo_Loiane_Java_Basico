@@ -27,10 +27,6 @@ $src/Exercicio24/MediaAritmetica.java,c\6\c68179acfb36148c914ce77bac10d73fa1493
 Q.idea/sonarlint/securityhotspotstore/3/c/3ca643761e64be83dc72cf5e7dbdb0ade7b8a21e,3\2\3228746302051873226f0867981cae0d5efb1892
 w
 G.idea/sonarlint/issuestore/2/2/22b264fdc80fbfc1283146971d649525244b405c,7\b\7bcdef859b1f07d6b855f53f2ddc0309b68fea70
-Å
-Q.idea/sonarlint/securityhotspotstore/7/5/75b3b126323db4ebf2acb25423abebebd8ab0321,9\6\96245f9b762cb06a32ba557d760d2210f8ce1749
-w
-G.idea/sonarlint/issuestore/c/8/c8e8e80c3b3cb54e91ad383bfe056c3b7dba8358,7\f\7fe11ac5eb231698411b3805dddd62feac99bc3c
 w
 G.idea/sonarlint/issuestore/3/c/3ca643761e64be83dc72cf5e7dbdb0ade7b8a21e,3\5\354267fe8757fc7e9946808b8a6a77c75367d617
 Å
@@ -47,16 +43,12 @@ w
 G.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0,f\0\f0e0f9cec86fe4b939ae22be5264c758801eb28f
 Å
 Q.idea/sonarlint/securityhotspotstore/c/6/c68179acfb36148c914ce77bac10d73fa1493481,e\8\e8b751a467e477347ace1dbdccf94a2792c75a7a
-Å
-Q.idea/sonarlint/securityhotspotstore/c/8/c8e8e80c3b3cb54e91ad383bfe056c3b7dba8358,b\7\b7f88dffc20bc6403dbc190f1f505c49ea5d187c
 w
 G.idea/sonarlint/issuestore/1/1/119f0177bd3973cce6d0e52b2291f63421653da5,c\b\cba1c2d68490aae906f69ca6df71221ca35087a0
 w
 G.idea/sonarlint/issuestore/a/4/a477d03028e9f74049da80288fdf7b083403c44b,a\7\a7533c64ab88205736ef2e23642d71f4c564d4ea
 Å
 Q.idea/sonarlint/securityhotspotstore/1/1/119f0177bd3973cce6d0e52b2291f63421653da5,7\c\7c40cf0a997b33a3c03d231cfc302a75ea45193a
-Å
-Q.idea/sonarlint/securityhotspotstore/e/4/e433266b8e3e6768071e82819ac849b3de6ca03e,b\3\b3ec6ad3537c402f53712f2ecd63db5366dfb084
 Å
 Q.idea/sonarlint/securityhotspotstore/2/2/22b264fdc80fbfc1283146971d649525244b405c,c\e\ce875fda8d689616a24d9c7a375e38a5d5e28307
 O
@@ -498,8 +490,6 @@ Q.idea/sonarlint/securityhotspotstore/b/8/b84dc3c03a0f080c49f4791d28fa2489d742e7
 Å
 Q.idea/sonarlint/securityhotspotstore/b/8/b878c4f10977925be264d6bbb852451320793e93,3\3\33f88a6ff1dc133409718cc96bf35627a119b1cb
 Å
-Q.idea/sonarlint/securityhotspotstore/c/c/cc513f4a26864f6b3b095b4688f7eb6a4201ea50,e\6\e6123be7c9a057d5da41d8e246ae0ce33463792b
-Å
 Q.idea/sonarlint/securityhotspotstore/c/9/c92ef143360f11054f8f2c6b319408b52edda3ee,b\2\b265447f22e704f6c9d1dab15ec5c3f9a67a0b1b
 Å
 Q.idea/sonarlint/securityhotspotstore/8/b/8b47f4ca821b0a5ac1a47bfddb69fe5e39352e74,2\0\204ac51627269f13f8c3b39e8f045501eb4e891e
@@ -661,3 +651,25 @@ w
 G.idea/sonarlint/issuestore/0/c/0c0225e236baaec3a0edb17799b59bae8d233f2f,5\0\50adeb4964f3012bede6438a831a77a96272541d
 w
 G.idea/sonarlint/issuestore/0/7/07686247ad5b3e9b590c4f8d830bd98081bb099b,6\c\6c96c0040315ac5aba3b75d6a2516fbc1dcf1bcc
+Q
+!src/Exercicio28/Investimento.java,c\c\cc513f4a26864f6b3b095b4688f7eb6a4201ea50
+V
+&Resolucao - Exercicios Aulas 16 17.iml,c\8\c8e8e80c3b3cb54e91ad383bfe056c3b7dba8358
+M
+src/Exercicio32/Fatorial.java,e\0\e09d7e9dbb7049a2e46a18064960a42bdee6afbc
+S
+#src/Exercicio31/LojasTabajaras.java,0\a\0aeb2b46ad3757657c40972baf1b35a275cee7b6
+P
+ src/Exercicio33/Temperatura.java,e\3\e375d5f663a23a3700da7441b4fc3a46fe3cb498
+L
+src/Exercicio18/Numeros.java,9\8\986f5f6f22277980bd28e8e557b76d8169ad14bc
+L
+src/Exercicio19/Numeros.java,2\f\2f9ccca141cc60bd8d2b6a0e9e1f5b7fd8062573
+R
+"src/Exercicio22/NumerosPrimos.java,7\5\75b3b126323db4ebf2acb25423abebebd8ab0321
+P
+ src/Exercicio34/NumeroPrimo.java,d\5\d523a707161acbdf2b44e602d9fb3b4db03cbee5
+R
+"src/Exercicio23/NumerosPrimos.java,e\4\e433266b8e3e6768071e82819ac849b3de6ca03e
+R
+"src/Exercicio35/NumerosPrimos.java,e\3\e3f5032e77d1f92044e7212b9056c3cffbba7f9d

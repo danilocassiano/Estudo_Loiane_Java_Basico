@@ -13,7 +13,6 @@ public class Tabuada {
         System.out.println("Terminar em: ");
         int termino = scan.nextInt();
 
-
         int total = numero;
 
         for (int i = inicio; i <= termino; i++) {
