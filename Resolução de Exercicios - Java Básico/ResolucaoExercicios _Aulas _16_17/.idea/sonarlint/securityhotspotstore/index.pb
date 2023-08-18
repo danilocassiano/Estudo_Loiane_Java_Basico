@@ -659,8 +659,6 @@ M
 src/Exercicio32/Fatorial.java,e\0\e09d7e9dbb7049a2e46a18064960a42bdee6afbc
 S
 #src/Exercicio31/LojasTabajaras.java,0\a\0aeb2b46ad3757657c40972baf1b35a275cee7b6
-P
- src/Exercicio33/Temperatura.java,e\3\e375d5f663a23a3700da7441b4fc3a46fe3cb498
 L
 src/Exercicio18/Numeros.java,9\8\986f5f6f22277980bd28e8e557b76d8169ad14bc
 L
