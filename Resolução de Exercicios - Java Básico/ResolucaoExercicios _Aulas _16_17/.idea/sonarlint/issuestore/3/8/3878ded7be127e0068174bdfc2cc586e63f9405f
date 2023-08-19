@@ -1,0 +1,12 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ì£Áşÿÿÿÿ8Êğñ´ 1
+D
+java:S2189	""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8Åòñ´ 1
+O
+java:S1659"-Declare "alturaMaisBaixo" on a separate line.(Û·…³ÿÿÿÿÿ8Ùòñ´ 1
+F
+java:S1659")Declare "numeroBaixo" on a separate line.(†ÁÑ8Ûòñ´ 1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÊúËÅ8ÿòñ´ 1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Âø»Ê8‡óñ´ 1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ïû¾À8‹óñ´ 1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(÷ğ‘¤úÿÿÿÿ8óñ´ 1
