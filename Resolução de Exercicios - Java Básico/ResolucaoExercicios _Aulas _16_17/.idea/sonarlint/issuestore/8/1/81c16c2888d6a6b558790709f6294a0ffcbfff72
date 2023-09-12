@@ -1,0 +1,13 @@
+
+j
+java:S1192"HDefine a constant instead of duplicating this literal " Reais." 6 times.(×šßìÿÿÿÿÿ8Áößº¦1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜üÿşÿÿÿÿÿ8ÈÆº¦1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(õ’ûÍûÿÿÿÿ8ÿÿßº¦1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ê™„ÿÿÿÿÿ8ÿÿßº¦1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(×šßìÿÿÿÿÿ8ÿÿßº¦1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(™¹¾şÿÿÿÿ8ÿÿßº¦1
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(Õ°…Äşÿÿÿÿ8ÿÿßº¦1
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(¡„ó½ıÿÿÿÿ8€àº¦1
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(‘’Úµøÿÿÿÿ8€àº¦1
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(á¢¹åıÿÿÿÿ8€àº¦1
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(Äîùê8€àº¦1
