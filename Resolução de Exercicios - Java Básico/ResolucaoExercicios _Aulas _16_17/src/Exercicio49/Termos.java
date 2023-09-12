@@ -10,20 +10,27 @@ public class Termos {
         int n = 0;
         int m = -1;
         double soma = 0;
+        String serie = "";
 
 
         //Coloquei um limitador de 10 pra não ficar uma sequencia infinita.
         for(int i = 0; i < 10; i++){
             n += 1;
             m += 2;
-            soma += (double) n/m;
+            double termo = (double) n/m;
+            soma += termo;
 
-            System.out.println("S = " + n + "/" + m);
+            if (i == 0) {
+                serie += n + "/" + m;
+            } else {
+                serie += " + " + n + "/" + m;
+            }
 
         }
 
         String decimal = df.format(soma);
 
+        System.out.println("S = " + serie);
         System.out.println("O total da série é: " + decimal);
     }
 }
