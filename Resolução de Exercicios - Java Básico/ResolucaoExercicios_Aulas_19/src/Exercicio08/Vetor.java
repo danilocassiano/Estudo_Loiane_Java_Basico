@@ -30,7 +30,7 @@ public class Vetor {
         vetorB [9] = 20;
 
         for(int i = 0; i < vetorA.length; i++){
-            vetorC[i] = vetorB[i] / vetorA[i];
+            vetorC[i] = vetorB[i] * vetorA[i];
         }
 
         System.out.println("Vetor C:");

@@ -1,4 +1,4 @@
-package Exercicio07;
+package Exercicio09;
 
 public class Vetor {
     public static void main(String[] args) {
@@ -6,7 +6,6 @@ public class Vetor {
         int [] vetorA = new int[10];
         int [] vetorB = new int[10];
         int [] vetorC = new int[10];
-
 
         vetorA [0] = 1;
         vetorA [1] = 2;
@@ -31,11 +30,11 @@ public class Vetor {
         vetorB [9] = 20;
 
         for(int i = 0; i < vetorA.length; i++){
-            vetorC[i] = vetorB[i] - vetorA[i];
+            vetorC[i] = vetorB[i] / vetorA[i];
         }
 
         System.out.println("Vetor C:");
-        for(int i = 0; i < vetorC.length; i++){
+        for (int i = 0; i < vetorC.length; i++){
             System.out.println("C[" + i + "] = " + vetorC[i]);
         }
     }
