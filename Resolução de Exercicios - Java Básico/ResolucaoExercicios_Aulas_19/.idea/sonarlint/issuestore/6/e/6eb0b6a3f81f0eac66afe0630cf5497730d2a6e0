@@ -1,0 +1,7 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õª“Ô8ü¹€ÿ¨1
+_
+java:S3518&"CMake sure "contadorMaior" can't be zero before doing this division.(Ì¨•U8§ıÿ¨1
+G	java:S106("+Replace this use of System.out by a logger.(µ‚ÏË8Ä¾€ÿ¨1
+L	java:S106)"+Replace this use of System.out by a logger.(º›­¹ÿÿÿÿÿ8Ä¾€ÿ¨1
+G	java:S106*"+Replace this use of System.out by a logger.(±¬ôØ8Øî€ÿ¨1

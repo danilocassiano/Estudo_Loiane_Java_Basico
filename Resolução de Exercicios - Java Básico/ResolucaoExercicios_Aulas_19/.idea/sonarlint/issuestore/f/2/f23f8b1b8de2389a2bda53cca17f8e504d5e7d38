@@ -1,4 +1,5 @@
 
 u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùôäN8Ö¶«û¨1
-F
-java:S1481")Remove this unused "soma" local variable.(ˆ“—è8…·«û¨1
+`
+java:S3518">Make sure "contador" can't be zero before doing this division.(Ü„ã–úÿÿÿÿ8ù±¹û¨1
+L	java:S106"+Replace this use of System.out by a logger.(ºœ“«þÿÿÿÿ8–Ëºû¨1

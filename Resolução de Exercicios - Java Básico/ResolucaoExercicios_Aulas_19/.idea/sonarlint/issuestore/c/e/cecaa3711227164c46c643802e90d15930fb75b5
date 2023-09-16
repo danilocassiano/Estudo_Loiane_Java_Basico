@@ -1,0 +1,7 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(š¸­˜8‡€Ëş¨1
+c
+java:S35185"AMake sure "somaImpares" can't be zero before doing this division.(™àûîøÿÿÿÿ8ËËş¨1
+L	java:S106&"+Replace this use of System.out by a logger.(¹’ÂÅûÿÿÿÿ8êËş¨1
+L	java:S106*"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8êËş¨1
+L	java:S1068"+Replace this use of System.out by a logger.(‘Å±òúÿÿÿÿ8êËş¨1
