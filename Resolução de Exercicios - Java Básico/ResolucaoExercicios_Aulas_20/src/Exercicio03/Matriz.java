@@ -16,6 +16,24 @@ public class Matriz {
             }
         }
 
+        int minimo = matriz[0][0];
+        int maximo = matriz[0][0];
+
+        // Encontrar o valor mínimo e máximo da matriz
+        for (int i = 0; i < 3; i++) {
+            for (int j = 0; j < 3; j++) {
+                int valor = matriz[i][j];
+
+                if (valor < minimo) {
+                    minimo = valor;
+                }
+
+                if (valor > maximo) {
+                    maximo = valor;
+                }
+            }
+        }
+
         // Exibir a matriz preenchida
         System.out.println("Matriz informada:");
         for (int i = 0; i < 3; i++) {
@@ -24,6 +42,9 @@ public class Matriz {
             }
             System.out.println();
         }
+
+        System.out.println("O valor mínimo da Matriz é: " + minimo);
+        System.out.println("O valor máximo da Matriz é: " + maximo);
     }
 }
 
