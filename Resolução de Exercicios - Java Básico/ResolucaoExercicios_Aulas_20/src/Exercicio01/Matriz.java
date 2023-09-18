@@ -29,10 +29,13 @@ public class Matriz {
 
         int minimo = matriz[0][0];
         int maximo = matriz[0][0];
+        int valor =0 ;
 
-        for(int i = 0; i < matriz.length; i++){
+        for( int i = 0; i < matriz.length; i++){
+
             for(int j = 0; j < matriz[i].length; j++){
-                int valor = matriz [i][j];
+
+                valor = matriz [i][j];
 
                 if(valor < minimo){
                     minimo = valor;
@@ -44,10 +47,28 @@ public class Matriz {
             }
         }
 
-        System.out.println("O valor mínimo na matriz é: " + minimo);
+        int posI =0;
+        int posJ =0;
+
         System.out.println("O valor máximo na matriz é: " + maximo);
 
+        for( posI = 0; posI < matriz.length; posI++){
+            for(posJ = 0; posJ < matriz[posI].length; posJ++ ){
+                if(matriz[posI][posJ] == maximo){
+                    System.out.println("Está na posição " + "["+posI+"]" + "["+posJ+"]");
+                }
+            }
+        }
 
+        System.out.println("O valor mínimo na matriz é: " + minimo);
+
+        for( posI = 0; posI < matriz.length; posI++){
+            for(posJ = 0; posJ < matriz[posI].length; posJ++ ){
+                if(matriz[posI][posJ] == minimo){
+                    System.out.println("Está na posição " + "["+posI+"]" + "["+posJ+"]");
+                }
+            }
+        }
     }
 }
 
