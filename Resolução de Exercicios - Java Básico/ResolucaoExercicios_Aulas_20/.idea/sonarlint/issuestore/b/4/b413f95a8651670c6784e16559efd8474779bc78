@@ -1,6 +1,10 @@
 
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ò»úæÿÿÿÿÿ8ïæîÚ©1
-G	java:S106/"+Replace this use of System.out by a logger.(ğõ8ÂéîÚ©1
-F	java:S1060"+Replace this use of System.out by a logger.(Íâ™58ÈéîÚ©1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ò»úæÿÿÿÿÿ8ªãĞÎª1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Çµí‘8¡õ×Îª1
+F	java:S1065"+Replace this use of System.out by a logger.(Íâ™58ËğĞÎª1
+L	java:S106:"+Replace this use of System.out by a logger.(„óŞ¦úÿÿÿÿ8ÑğĞÎª1
+G	java:S106?"+Replace this use of System.out by a logger.(ğõ8Œ»ØÎª1
+L	java:S106D"+Replace this use of System.out by a logger.(„óŞ¦úÿÿÿÿ8‘»ØÎª1
 J
-java:S1128"-Remove this unused import 'java.text.Format'.(¨Ô¬ş8ÊéîÚ©1
+java:S1128"-Remove this unused import 'java.text.Format'.(¨Ô¬ş8ÖğĞÎª1

@@ -7,3 +7,5 @@ K
 src/Exercicio02/Matriz.java,7\a\7a50ccc6afdcbb8a1a5057f7ea707af730a96324
 K
 src/Exercicio03/Matriz.java,2\1\211e8a804283fb1656b5b6ea0cb60462585e6fc9
+K
+src/Exercicio04/Matriz.java,8\9\89f07a65fc21aa1cabe260fe3dd94b0d987aa3f1
