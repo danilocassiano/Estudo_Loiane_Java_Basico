@@ -1,4 +1,21 @@
 
-<
-java:S1700"Rename field "jogoDaVelha"(à·ÉÔüÿÿÿÿ8ì®…Ûª1
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÉŸöå8î®…Ûª1
+:
+java:S1700+"Rename field "tabuleiro"(žÜºýÿÿÿÿ8È˜ˆüª1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÉŸöå8Ï˜ˆüª1
+A
+java:S1659"$Declare "coluna" on a separate line.(¥÷‰¿8ìÑˆüª1
+L	java:S106"+Replace this use of System.out by a logger.(¡ÑÖ¡ùÿÿÿÿ8šÒˆüª1
+L	java:S106"+Replace this use of System.out by a logger.(à‡„™üÿÿÿÿ8¥Òˆüª1
+G	java:S106"+Replace this use of System.out by a logger.(™©‹Ä8´Òˆüª1
+L	java:S106!"+Replace this use of System.out by a logger.(ã˜Ûÿÿÿÿÿ8ÛÒˆüª1
+F	java:S106#"+Replace this use of System.out by a logger.(¸ïËA8äÒˆüª1
+G	java:S1067"+Replace this use of System.out by a logger.(¶–àÒ8£Óˆüª1
+G	java:S1069"+Replace this use of System.out by a logger.(Ù©È±8±Óˆüª1
+G	java:S106;"+Replace this use of System.out by a logger.(ÀÇÝ¤8¼Óˆüª1
+L	java:S106="+Replace this use of System.out by a logger.(ÚŒù²ùÿÿÿÿ8ÂÓˆüª1
+L	java:S106@"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8ÈÓˆüª1
+G	java:S106B"+Replace this use of System.out by a logger.(¦œß®8ÎÓˆüª1
+L	java:S106E"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8ÓÓˆüª1
+L	java:S106M"+Replace this use of System.out by a logger.(Á¤—×øÿÿÿÿ8‹Ôˆüª1
+o
+java:S3776R"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Æ¯íÞ8²Ôˆüª1
