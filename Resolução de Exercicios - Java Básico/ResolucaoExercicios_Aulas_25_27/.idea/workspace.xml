@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="849bd1f1-145e-4c2c-bc89-77597a507119" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exercicio01/ExibirLampada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio01/Lampadas.java" afterDir="false" />
+    <list default="true" id="849bd1f1-145e-4c2c-bc89-77597a507119" name="Changes" comment="Resolução do Exercicio 01;">
+      <change afterPath="$PROJECT_DIR$/src/Exercicio02/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio02/ExibirConta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +42,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "git-widget-placeholder": "main",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
@@ -58,6 +59,19 @@
       <option name="presentableId" value="Default" />
       <updated>1692123385870</updated>
     </task>
+    <task id="LOCAL-00001" summary="Resolução do Exercicio 01;">
+      <option name="closed" value="true" />
+      <created>1696553063761</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696553063761</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Resolução do Exercicio 01;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resolução do Exercicio 01;" />
   </component>
 </project>
