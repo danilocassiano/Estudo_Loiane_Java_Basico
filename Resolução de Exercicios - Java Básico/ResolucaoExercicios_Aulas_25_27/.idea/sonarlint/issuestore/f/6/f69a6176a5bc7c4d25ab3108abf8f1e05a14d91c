@@ -1,0 +1,12 @@
+
+z
+java:S1488-"]Immediately return this expression instead of assigning it to the temporary variable "media".(”â¾Ô8ŞŒ™°1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ìº¥¥8·€™°1
+L	java:S106"+Replace this use of System.out by a logger.(œ‹­—øÿÿÿÿ8¶¸€™°1
+G	java:S106"+Replace this use of System.out by a logger.(Â£Èÿ8¸¸€™°1
+L	java:S106"+Replace this use of System.out by a logger.(ì’Ÿ‡ùÿÿÿÿ8º¸€™°1
+L	java:S106"+Replace this use of System.out by a logger.(å°äùÿÿÿÿ8¿¸€™°1
+L	java:S106"+Replace this use of System.out by a logger.(ıÕåıÿÿÿÿ8Æ¸€™°1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Ç¸€™°1
+c
+java:S1126"AReplace this if-then-else statement by a single return statement.(æ÷óûÿÿÿÿ8Ô¸€™°1
